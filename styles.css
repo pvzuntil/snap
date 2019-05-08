@@ -26,3 +26,9 @@ body {
 .dust {
   position: absolute;
 }
+
+p{
+  font-family: Arial;
+  font-size:15px;
+  font-weight: bold;
+}
